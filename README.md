@@ -6,4 +6,4 @@ PROBLEM 1
 
 PROBLEM 2
 
--  
+-  Helm chart for stateless service with minimum of 3 replicas to maximum of 100 replicas of the service based on CPU Utilisation > 80%. Small explanation is in the README file inside.
